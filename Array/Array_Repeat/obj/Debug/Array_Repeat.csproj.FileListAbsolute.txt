@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\bin\Debug\Array_Repeat.exe.config
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\bin\Debug\Array_Repeat.exe
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\bin\Debug\Array_Repeat.pdb
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\obj\Debug\Array_Repeat.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\obj\Debug\Array_Repeat.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\obj\Debug\Array_Repeat.exe
+C:\Users\Code\source\repos\Array_Repeat\Array_Repeat\obj\Debug\Array_Repeat.pdb
